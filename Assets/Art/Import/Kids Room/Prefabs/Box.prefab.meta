@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 29d03729c2fc7834a8b790ecebf0ab8d
+timeCreated: 1461180936
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 48596
+  packageName: Kids Room
+  packageVersion: 1.3
+  assetPath: Assets/Kids Room/Prefabs/Box.prefab
+  uploadId: 617521

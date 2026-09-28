@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3ee976bcab4824b45b7c4879b106633f
+timeCreated: 1512898898
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 48596
+  packageName: Kids Room
+  packageVersion: 1.3
+  assetPath: Assets/Kids Room/Prefabs/Ceiling lamp.prefab
+  uploadId: 617521

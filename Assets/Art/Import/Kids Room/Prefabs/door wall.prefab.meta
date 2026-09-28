@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 86e02ef3411d0f4499f6a163759e5197
+timeCreated: 1446041796
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 48596
+  packageName: Kids Room
+  packageVersion: 1.3
+  assetPath: Assets/Kids Room/Prefabs/door wall.prefab
+  uploadId: 617521

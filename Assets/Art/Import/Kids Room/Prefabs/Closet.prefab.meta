@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 89a178d3b9872c14881b23d9373db0e0
+timeCreated: 1446041692
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 48596
+  packageName: Kids Room
+  packageVersion: 1.3
+  assetPath: Assets/Kids Room/Prefabs/Closet.prefab
+  uploadId: 617521

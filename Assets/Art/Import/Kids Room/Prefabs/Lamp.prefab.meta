@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5086c146e6c8a5047b617fdb846d4410
+timeCreated: 1446041806
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 48596
+  packageName: Kids Room
+  packageVersion: 1.3
+  assetPath: Assets/Kids Room/Prefabs/Lamp.prefab
+  uploadId: 617521
